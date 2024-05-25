@@ -1,2 +1,3 @@
 All the original data files are stored in the folder data. There are two files-21-23hr.csv and ballparks.csv.
-21-23hr.csv contains all the value
+21-23hr.csv contains all the number of HR in every stadiums in MLB from 2021 to 2023 seasons.
+ballparks.csv contains all the MLB stadiums information.
