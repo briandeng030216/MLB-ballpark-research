@@ -1,1 +1,2 @@
-1111
+All the original data files are stored in the folder data. There are two files-21-23hr.csv and ballparks.csv.
+21-23hr.csv contains all the value
