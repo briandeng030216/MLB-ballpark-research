@@ -1,4 +1,6 @@
-All the original data files are stored in the folder data. There are two files-21-23hr.csv and ballparks.csv.
+All the original data files are stored in the folder data.
 21-23hr.csv contains all the number of HR in every stadiums in MLB from 2021 to 2023 seasons. These data are collected from https://www.onlyhomers.com/daily.
 ballparks.csv contains all the MLB stadiums information. In this file, all the distances are computed in feet. These data are from kaggle.
+CIN_PIT.csv contains the HR per game hitted by Cincinnati Reds and Pittsburgh Pirates at their home stadium from 2021 to 2023.
+The data were collected from www.teamrankings.com.
 Both these two files' data are in correct form and types. And there is no missing value.
